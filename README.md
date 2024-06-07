@@ -12,6 +12,8 @@ WR es un sitema operativo creado en menos de 24h, esta pensado para ser modular 
 - Capcidad de eliminar archivos y ficheros.
 - Posibilidad de renombrar carpetas, textos, imágenes...
 - Una barra de tareas que cuenta con un boton de apagado, un slider de volumen y un reloj en tiempo real y un calendario.
+## Instrucciones
+Solo hay que descargar WR.py y ejecutarlo con python, y tachan!, listo.
 ## Creditos
 - Trabajo realizado por Raúl Clavo
 - En este protyecto no se ha utilizado codigo/assets de ningun otro proyecto.
