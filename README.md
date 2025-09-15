@@ -12,11 +12,7 @@ Está diseñado para ser **modular**, permitiendo añadir nuevas funcionalidades
 -  **Visor y editor de imágenes** para edición básica.  
 -  **Widgets incluidos** para entretenimiento y productividad.  
 -  **Gestión de archivos completa**: eliminar, renombrar y organizar fácilmente.  
--  **Barra de tareas interactiva** con:  
-  -  Botón de apagado  
-  -  Control deslizante de volumen  
-  -  Reloj en tiempo real  
-  -  Calendario integrado  
+-  **Barra de tareas interactiva** con un botón de apagado, silder de volumen, reloj, calendario...  
 
 ## Instrucciones de uso  
 1. Descarga el archivo `WR.py`.  
