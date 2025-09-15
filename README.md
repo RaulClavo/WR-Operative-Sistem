@@ -1,20 +1,27 @@
-# WR-Operative-Sistem
-Práctica Final para "Fundamentos de Sistemas Operativos"
-## ¿De que trata este sistema operativo?
-WR es un sitema operativo creado en menos de 24h, esta pensado para ser modular y poderle agregar funcionalidades y caracteristicas sin demasiado esfuerzo, todo el sistema operativo es contenido en un único archivo de python, esto junto con una sintaxis precisa así como sencilla y una longitud de 600 lineas hace que WR sea un sistema operativo con un caracter ampliamente portable.
-## ¿Que funcionalidades tiene?
-- Pantalla de bloqueo con contraseña, para más seguridad.
-- Menus contextuales, (no más atajos de teclado).
-- Creación de carpetas de forma infinita, facilitando asi la gestion de los archivos y su organización en subcarpetas.
-- Software de edición de texto capaz de guardar tu información de forma segura.
-- Software de visualización y edición de imágenes para dar rienda suelta a tu imaginación.
-- Varios widgets para afrontar el aburrimiento y las tareas diarias.
-- Capcidad de eliminar archivos y ficheros.
-- Posibilidad de renombrar carpetas, textos, imágenes...
-- Una barra de tareas que cuenta con un boton de apagado, un slider de volumen y un reloj en tiempo real y un calendario.
-## Instrucciones
-Solo hay que descargar WR.py y ejecutarlo con python, y tachan!, listo.
-## Creditos
-- Trabajo realizado por Raúl Clavo
-- En este protyecto no se ha utilizado codigo/assets de ningun otro proyecto.
+# WR-Operative-System  
+
+## ¿Qué es WR?  
+**WR** es un sistema operativo experimental desarrollado en menos de 24 horas. Está diseñado para ser **modular**, permitiendo añadir nuevas funcionalidades sin complicaciones.  
+Todo el sistema se encuentra en un único archivo de Python, con alrededor de **600 líneas de código** claras y concisas, lo que lo hace **ligero y altamente portable**.  
+
+## Características principales  
+-  **Pantalla de bloqueo con contraseña** para mayor seguridad.  
+-  **Menús contextuales** que eliminan la necesidad de atajos de teclado.  
+-  **Gestión avanzada de archivos** con creación de carpetas anidables sin límite.  
+-  **Editor de texto integrado** con guardado seguro.  
+-  **Visor y editor de imágenes** para edición básica.  
+-  **Widgets incluidos** para entretenimiento y productividad.  
+-  **Gestión de archivos completa**: eliminar, renombrar y organizar fácilmente.  
+-  **Barra de tareas interactiva** con:  
+  - Botón de apagado  
+  - Control deslizante de volumen  
+  - Reloj en tiempo real  
+  - Calendario integrado  
+
+## Instrucciones de uso  
+1. Descarga el archivo `WR.py`.  
+2. Ejecútalo con Python.  
+3. ¡Listo! El sistema estará funcionando.  
+
+
   
