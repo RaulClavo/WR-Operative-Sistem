@@ -1,4 +1,4 @@
-# WR-Operative-System  
+# WR - Sistema Operativo  
 
 ## ¿Qué es WR?  
 **WR** es un sistema operativo experimental desarrollado en menos de 24 horas. 
