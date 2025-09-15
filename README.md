@@ -1,8 +1,8 @@
 # WR-Operative-System  
 
 ## ¿Qué es WR?  
-**WR** es un sistema operativo experimental desarrollado en menos de 24 horas. Está diseñado para ser **modular**, permitiendo añadir nuevas funcionalidades sin complicaciones.  
-Todo el sistema se encuentra en un único archivo de Python, con alrededor de **600 líneas de código** claras y concisas, lo que lo hace **ligero y altamente portable**.  
+**WR** es un sistema operativo experimental desarrollado en menos de 24 horas. 
+Está diseñado para ser **modular**, permitiendo añadir nuevas funcionalidades sin complicaciones.   
 
 ## Características principales  
 -  **Pantalla de bloqueo con contraseña** para mayor seguridad.  
@@ -13,10 +13,10 @@ Todo el sistema se encuentra en un único archivo de Python, con alrededor de **
 -  **Widgets incluidos** para entretenimiento y productividad.  
 -  **Gestión de archivos completa**: eliminar, renombrar y organizar fácilmente.  
 -  **Barra de tareas interactiva** con:  
-  - Botón de apagado  
-  - Control deslizante de volumen  
-  - Reloj en tiempo real  
-  - Calendario integrado  
+  -  Botón de apagado  
+  -  Control deslizante de volumen  
+  -  Reloj en tiempo real  
+  -  Calendario integrado  
 
 ## Instrucciones de uso  
 1. Descarga el archivo `WR.py`.  
